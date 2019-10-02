@@ -1,0 +1,5 @@
+Q-01: Who are not stored at contiguous memory locations?
+Q-02: What did a linked linked consists of nodes where each node contains a data field and a reference ( link ) to the next node in the list?
+Q-03: What did a linked linked of nodes where each node contains and a reference ( link ) to the next node in the list?
+Q-04: Who linked nodes where of nodes where each node contains a data field and a reference ( link ) to the next node in the list?
+Q-05: Who singly linked list?
